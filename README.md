@@ -1,5 +1,7 @@
-# EbookHTML
-Ebook sobre HTML criado pela IA
+# E-book HTML
+E-book sobre HTML criado pela IA e diagramado por humano, durante curso da [DIO](https://dio.me) com o instrutor Felipe Aguiar
+
+<a href="https://github.com/SorayaSol/EbookHTML.git" title="View PDF now">📕Clique aqui para ler</a>
 
 # Tecnologias utilizadas no projeto
 
@@ -11,7 +13,7 @@ Ebook sobre HTML criado pela IA
 Crie um título de um Ebook sobre o tema de HTML, o book é do nicho de programação e o subnicho é de HTML, o título deve ser épico e curto, e tenha uma temática mais nerd, e tenha uma temática de me liste 5 variações.
 
 
-# Resultado:
+# Resultado das sugestões de títulos:
 
 "HTML: A Jornada do Código"
 
